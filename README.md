@@ -16,4 +16,4 @@ The file `dat.tsv` is a database of cognate coded basic vocabulary in the Japoni
   - Symbols not defined in X-SAMPA used in this database are F\ for ꜰ (U+A730; Latin Letter Small Capital F) commonly used in Japanese dialectology to denote a voiceless bilabial fricative, and T\ for ᴛ (U+1D1B; Latin Letter Small Capital T) commonly used in Japanese dialectology to denote a geminate onset in word-final position.
 - **ipa**: transcription of the word in International Phonetic Alphabet (as it appears in the original source).
 - **cognacy**: cognacy of the word. 
-- **notes**: additional notes about the data
+- **notes**: additional notes about the data.
