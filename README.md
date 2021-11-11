@@ -17,3 +17,11 @@ The file `dat.tsv` is a database of cognate coded basic vocabulary in the Japoni
 - **ipa**: transcription of the word in International Phonetic Alphabet (as it appears in the original source).
 - **cognacy**: cognacy of the word. 
 - **notes**: additional notes about the data.
+
+### Cognate coding
+
+- Words that share the same root are coded as being cognate
+- The elements of compounds are coded individually if those elements occur separately in some varieties.
+  - e.g., 'blood': Tokyo *tʃi* A; Akiyama *aka* B; Ikema *akatsï* A/B.
+
+
